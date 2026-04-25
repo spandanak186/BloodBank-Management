@@ -1,6 +1,6 @@
 # Blood Bank Management System (Pro)
 
-Full-stack Flask project with authentication, donor management, and search system.
+Full-stack Flask project with authentication and tested manual, API , automation testing donor management, and search system.
 
 ## Features
 - Login & Register
